@@ -4,7 +4,6 @@
 ---
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
----
 
 <img align="right" height="150" src="https://github.com/JTCdev.png" />
 
@@ -16,10 +15,7 @@
 🔹 Passionate about **creating content across social networks, podcasts, X and more**  
 🔹 Always learning, always building. 
 
-
-
 ---
-
 ### 🛠️ My Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"  />
@@ -42,6 +38,17 @@
   </div>
 
 ---
+  
+  ### ☕ Support My Work
+<p align="left">
+  <a href="https://www.buymeacoffee.com/jtcdev">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+###
+
+---
 
 ### 📢 Connect With Me
 <div align="left">
@@ -55,18 +62,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"  />
   </a>
 </div>
-
----
-
-### ☕ Support My Work
-<p align="left">
-  <a href="https://www.buymeacoffee.com/jtcdev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
-
-###
 
 ---
 
