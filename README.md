@@ -2,7 +2,7 @@
 <h3 align="left">🧑‍💻 Developer | 🤖 AI & Automation Enthusiast | 🗣 Consultant & 🎥 Content Creator</h3>  
 
 ---
-Animations are experienced 1920x1080 resolution, live a little open you laptop 💜
+Animations are experienced 1920x1080 resolution, live a little open your laptop 💜
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
