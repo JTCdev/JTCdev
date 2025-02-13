@@ -1,34 +1,13 @@
 <h2 align="left">My name is Josh.</h2>
 <h34align="left">I'm a Web3 Developer, AI & Automation Enthusiast, and Content Creator.</h4>
 
----
-
-### 🏆 GitHub Stats:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jtcdev&column=3&margin-w=15&margin-h=15&theme=dracula" alt="Trophy Badges" />
-</div>
-
----
-
 <br clear="both">
 
-<img src="https://github.com/JTCdev/JTCdev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtcdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jtcdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true" height="150" alt="Languages Graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtcdev&theme=dracula" />
-
-
-</div>
-
-###
+---
 
 <img align="right" height="150" src="https://github.com/JTCdev.png" />
-
-###
 
 ### 💡 About Me
 🔹 JavaScript developer with experience in **Next.js, Tailwind, and React**  
@@ -37,6 +16,8 @@
 🔹 Experience with **Ethereum, Solana, and Sui ecosystems**  
 🔹 Passionate about **creating content across social networks, podcasts, X threads, and video production**  
 🔹 Always learning, always building. 
+
+
 
 ---
 
@@ -86,5 +67,29 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
 </p>
+
+
+###
+
+---
+
+### 🏆 GitHub Stats:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jtcdev&column=3&margin-w=15&margin-h=15&theme=dracula" alt="Trophy Badges" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jtcdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jtcdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true" height="150" alt="Languages Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtcdev&theme=dracula" />
+
+
+</div>
+
+
+
+
 
 
