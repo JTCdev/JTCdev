@@ -1,5 +1,5 @@
-<h2 align="left">My name is Josh.</h2>
-<h3 align="left">🧑‍💻 Web3 Developer | 🤖 AI & Automation Enthusiast | 🗣 Consultant & Content Creator</h3>  
+<h2 align="left">My name is Josh or you may know me as JTC.</h2>
+<h3 align="left">🧑‍💻 Developer | 🤖 AI & Automation Enthusiast | 🗣 Consultant & 🎥 Content Creator</h3>  
 
 ---
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
