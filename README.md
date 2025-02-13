@@ -3,6 +3,17 @@
 
 ---
 
+### 🏆 GitHub Stats:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jtcdev&column=3&margin-w=15&margin-h=15&theme=dracula" alt="Trophy Badges" />
+</div>
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
@@ -76,20 +87,4 @@
   </a>
 </p>
 
----
 
-### 🏆 GitHub Stats:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jtcdev&column=3&margin-w=15&margin-h=15&theme=dracula" alt="Trophy Badges" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtcdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtcdev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
