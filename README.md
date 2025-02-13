@@ -1,8 +1,7 @@
 <h2 align="left">My name is Josh.</h2>
-<h34align="left">I'm a Web3 Developer, AI & Automation Enthusiast, and Content Creator.</h4>
+<h3 align="left">🧑‍💻 Web3 Developer | 🤖 AI & Automation Enthusiast | 🗣 Consultant & Content Creator</h3>  
 
-<br clear="both">
-
+---
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
@@ -21,8 +20,10 @@
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ My Tech Stack
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"  />
@@ -35,18 +36,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="Solidity"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"  />
-</div>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" alt="Tailwind CSS" />
+  </div>
 
 ---
 
-### 📢 Connect With Me:
+### 📢 Connect With Me
 <div align="left">
   <a href="https://x.com/JTCdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter"  />
@@ -61,7 +58,7 @@
 
 ---
 
-### ☕ Support My Work:
+### ☕ Support My Work
 <p align="left">
   <a href="https://www.buymeacoffee.com/jtcdev">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
@@ -73,23 +70,18 @@
 
 ---
 
-### 🏆 GitHub Stats:
+### **🏆 GitHub Stats**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jtcdev&column=3&margin-w=15&margin-h=15&theme=dracula" alt="Trophy Badges" />
 </div>
 
-###
+---
 
+### **📊 GitHub Activity**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtcdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jtcdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true" height="150" alt="Languages Graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtcdev&theme=dracula" />
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jtcdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jtcdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true" height="180" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtcdev&theme=dracula" alt="GitHub Summary Card" />
 </div>
 
-
-
-
-
-
+---
