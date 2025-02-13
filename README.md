@@ -13,7 +13,7 @@
 🔹 Deeply involved in **Web3, AI, and automation**  
 🔹 Strong knowledge of **blockchain technology, DeFi, tokenomics**  
 🔹 Experience with **Ethereum, Solana, and Sui ecosystems**  
-🔹 Passionate about **creating content across social networks, podcasts, X threads, and video production**  
+🔹 Passionate about **creating content across social networks, podcasts, X and more**  
 🔹 Always learning, always building. 
 
 
