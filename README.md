@@ -1,8 +1,7 @@
 <h2 align="left">My name is Josh, aka JTC</h2>
-<h3 align="left">🧑‍💻 Developer | 🤖 AI & Automation Enthusiast | 🗣 Consultant & 🎥 Content Creator</h3>  
-
+<h3 align="left">Animations are experienced 1920x1080 resolution, live a little open your laptop 💜</h3>
 ---
-Animations are experienced 1920x1080 resolution, live a little open your laptop 💜
+
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
@@ -40,7 +39,7 @@ Animations are experienced 1920x1080 resolution, live a little open your laptop 
 
 ---
   
-  ### ☕ Support My Work
+  ### ☕ Here's how you can say thanks
 <p align="left">
   <a href="https://www.buymeacoffee.com/jtcdev">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
