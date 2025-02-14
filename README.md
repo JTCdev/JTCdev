@@ -1,5 +1,5 @@
 <h2 align="left">My name is Josh, aka JTC</h2>
-<h3 align="left">Animations are experienced 1920x1080 resolution, live a little open your laptop 💜</h3>
+<h3 align="left">My profile Animations and UI is bested experienced 1920x1080 resolution, live a little open your laptop 💜</h3>
 ---
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
