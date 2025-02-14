@@ -74,9 +74,7 @@
 
 ### **📊 GitHub Activity**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtcdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jtcdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&count_private=true" height="180" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtcdev&theme=dracula" alt="GitHub Summary Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JTCdev&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ovi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JTCdev&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="my Github Stats"/>
 </div>
-
 ---
