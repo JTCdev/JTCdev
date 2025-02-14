@@ -1,4 +1,4 @@
-<h2 align="left">My name is Josh, aka JTC.</h2>
+<h2 align="left">My name is Josh, aka JTC</h2>
 <h3 align="left">🧑‍💻 Developer | 🤖 AI & Automation Enthusiast | 🗣 Consultant & 🎥 Content Creator</h3>  
 
 ---
