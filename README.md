@@ -74,7 +74,6 @@
 
 ### **📊 GitHub Activity**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JTCdev&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ovi" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JTCdev&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="my Github Stats"/>
 </div>
 ---
