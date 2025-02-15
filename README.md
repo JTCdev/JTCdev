@@ -1,13 +1,16 @@
-<h2 align="left">My name is Josh, aka JTC</h2>
+<h1 align="left">My name is JTC</h1>
 <h3 align="left">My profile Animations and UI is bested experienced 1920x1080 resolution, live a little open your laptop 💜</h3>
----
-
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-
-<img align="right" height="150" src="https://github.com/JTCdev.png" />
-
+---
 ### 💡 About Me
+<div align="left">
+  <img align="right" height="150" src="https://github.com/JTCdev.png" />
+  <img src="https://badges.pufler.dev/visits/JTCdev/badge-it" height="25" alt="Visits Badge" />
+  <img src="https://badges.pufler.dev/repos/JTCdev" height="25" alt="Repos Badge" />
+  <img src="https://badges.pufler.dev/commits/monthly/JTCdev" height="25" alt="Commits Badge" />
+</div>
+
 🔹 JavaScript developer with experience in **Next.js, Tailwind, and React**  
 🔹 Deeply involved in **Web3, AI, and automation**  
 🔹 Strong knowledge of **blockchain technology, DeFi, tokenomics**  
@@ -66,14 +69,12 @@
 ---
 
 ### **🏆 GitHub Stats**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jtcdev&column=3&margin-w=15&margin-h=15&theme=dracula" height="500"  alt="Trophy Badges" />
+<div align="center" style="display: flex; justify-content: space-between; padding-bottom: 20px;">
+  <img style="padding: 20px;" src="https://github-readme-stats.vercel.app/api?username=JTCdev&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Josh's GitHub Stats" />
+  <img style="padding: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JTCdev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" />
 </div>
 
----
-
-### **📊 GitHub Activity**
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JTCdev&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="my Github Stats"/>
+<div align="center" style="padding-top: 30px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=jtcdev&column=8&margin-w=15&margin-h=15&theme=dracula" height="120" alt="Trophy Badges" />
 </div>
----
+
