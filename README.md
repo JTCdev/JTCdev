@@ -11,7 +11,7 @@
   <img src="https://badges.pufler.dev/commits/monthly/JTCdev" height="25" alt="Commits Badge" />
 </div>
 
-🔹 JavaScript developer with experience in **Next.js, Tailwind, and React**  
+🔹 JavaScript + Py developer with experience in **Next.js, Tailwind, and React**  
 🔹 Deeply involved in **Web3, AI, and automation**  
 🔹 Strong knowledge of **blockchain technology, DeFi, tokenomics**  
 🔹 Experience with **Ethereum, Solana, and Sui ecosystems**  
