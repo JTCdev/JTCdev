@@ -68,13 +68,3 @@
 
 ---
 
-### **🏆 GitHub Stats**
-<div align="center" style="display: flex; justify-content: space-between; padding-bottom: 20px;">
-  <img style="padding: 20px;" src="https://github-readme-stats.vercel.app/api?username=JTCdev&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Josh's GitHub Stats" />
-  <img style="padding: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=JTCdev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" />
-</div>
-
-<div align="center" style="padding-top: 30px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=jtcdev&column=8&margin-w=15&margin-h=15&theme=dracula" height="120" alt="Trophy Badges" />
-</div>
-
