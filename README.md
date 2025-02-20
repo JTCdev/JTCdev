@@ -6,10 +6,6 @@
 ### 💡 About Me
 <div align="left">
   <img align="right" height="150" src="https://github.com/JTCdev.png" />
-  <img src="https://badges.pufler.dev/visits/JTCdev/badge-it" height="25" alt="Visits Badge" />
-  <img src="https://badges.pufler.dev/repos/JTCdev" height="25" alt="Repos Badge" />
-  <img src="https://badges.pufler.dev/commits/monthly/JTCdev" height="25" alt="Commits Badge" />
-</div>
 
 🔹 JavaScript + Py developer with experience in **Next.js, Tailwind, and React**  
 🔹 Deeply involved in **Web3, AI, and automation**  
