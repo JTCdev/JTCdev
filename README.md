@@ -1,4 +1,4 @@
-<h1 align="left">My name is JTC</h1>
+⅕<h1 align="left">My name is JTC</h1>
 <h3 align="left">My profile Animations and UI is bested experienced 1920x1080 resolution, live a little open your laptop 💜</h3>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
@@ -37,17 +37,6 @@
   </div>
 
 ---
-  
-  ### ☕ Here's how you can say thanks
-<p align="left">
-  <a href="https://www.buymeacoffee.com/jtcdev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
-###
-
----
 
 ### 📢 Connect With Me
 <div align="left">
@@ -57,10 +46,6 @@
   <a href="https://github.com/JTCdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub"  />
   </a>
-  <a href="https://discord.gg/JTCdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"  />
-  </a>
-</div>
 
 ---
 
